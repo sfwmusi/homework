@@ -1,8 +1,7 @@
-p {
-  color: red;
-}
 html {
   background-color: #00539F;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
 }
 body {
   width: 1000px;
@@ -13,12 +12,16 @@ body {
   border: 5px solid black;
 }
 h1 {
+  font-size: 60px;
   margin: 0;
   padding: 20px 0;
   color: #00539F;
   text-shadow: 3px 3px 1px black;
+  text-align: center;
 }
-img {
-  display: block;
-  margin: 0 auto;
+button{
+  width:80px;
+  height: 40px;
+  font-size: 10px;
+
 }
